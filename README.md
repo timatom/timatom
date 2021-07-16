@@ -1,6 +1,7 @@
 ## ML & Engineering + Systems = Me | Ourse | TimsIdeas.blog
 
-- It's me, Timothy Rollings
+### About me
+
 - ML Engineer, Founder (Ourse), and forever learner
 - I apply ML to cool engineering and systems solutions
 - Feel free to reach me at timothy@ourse.co
