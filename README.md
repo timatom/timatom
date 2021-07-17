@@ -2,7 +2,7 @@
 
 ### About me
 
-- ML Engineer, Founder (Ourse), and forever learner
+- ML Engineer, Electrical Engineer, Software Engineer, Founder (Ourse), and forever learner
 - I apply ML to cool engineering and systems solutions
 - Feel free to reach me at timothy@ourse.co
 
