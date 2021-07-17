@@ -8,8 +8,19 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg"></code>
+<img align="left" width="30px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+
+<img align="left" width="30px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+
+<img align="left" width="30px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+
+<img align="left" width="30px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+
+<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"/>
+
+<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/>
+
+<br></br>
 
 ### Connect
 
