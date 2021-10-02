@@ -1,4 +1,4 @@
-## ML & Engineering + Systems = Me | Ourse | TimsIdeas.blog
+## ML/AI & Engineering + Systems = Me | Ourse | TimsIdeas.blog
 
 ### About me
 
