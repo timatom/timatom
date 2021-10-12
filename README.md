@@ -3,7 +3,7 @@
 ### About me
 
 - ML Engineer, Electrical Engineer, Software Engineer, Founder (Ourse), and forever learner
-- I apply ML to cool engineering and systems solutions
+- I apply ML and AI to cool engineering and systems solutions
 - Feel free to reach me at timothy@ourse.co
 
 **Languages and Tools:**  
