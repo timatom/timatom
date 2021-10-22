@@ -2,8 +2,8 @@
 
 ### About me
 
-- ML Engineer, Electrical Engineer, Software Engineer, Founder (Ourse), and forever learner
-- I apply ML and AI to cool engineering and systems solutions
+- Data Scientist, Writer, Electrical Engineer, Software Engineer, Founder (Ourse), and forever learner
+- I apply AI and DS to cool engineering and systems solutions
 - Feel free to reach me at timothy@ourse.co
 
 **Languages and Tools:**  
@@ -38,7 +38,7 @@
 
 <br></br>
 
-### Blog Posts
+### [Follow my ideas](https://www.timsideas.blog/)
 
 
 <!--- 
