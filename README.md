@@ -1,9 +1,9 @@
-## ML/AI & Engineering + Systems = Me | Ourse | [TimsIdeas.blog](https://www.timsideas.blog/)
+## Software Engineering, DS & AI + Systems = Me | Ourse | [TimsIdeas.blog](https://www.timsideas.blog/)
 
 ### About me
 
-- Data Scientist, Writer, Electrical Engineer, Software Engineer, Founder (Ourse), and forever learner
-- I apply AI and DS to cool engineering and systems solutions
+- Software Engineer, ML Engineer, Data Scientist, Writer, Electrical Engineer, and forever learner
+- With years of experience in engineering, I write DS and AI software applications to make systems smarter
 - Feel free to reach me at timothy@ourse.co
 
 **Languages and Tools:**  
