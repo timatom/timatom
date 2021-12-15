@@ -1,4 +1,4 @@
-## Software Engineering, DS & AI + Systems = Me | Ourse | [TimsIdeas.blog](https://www.timsideas.blog/)
+## Software Engineering, ML & Systems
 
 ### About me
 
