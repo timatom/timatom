@@ -3,7 +3,7 @@
 ### About me
 
 - Software Engineer, ML Engineer, Data Scientist, Writer, Electrical Engineer, and forever learner
-- With years of experience in engineering, I write DS and AI software applications to make systems smarter
+- With years of experience in engineering, I write computational and ML software applications to make systems smarter
 - Feel free to reach me at timothy@ourse.co
 
 **Languages and Tools:**  
