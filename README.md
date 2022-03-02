@@ -1,4 +1,4 @@
-## ML & Software Engineering + Systems
+## Software Engineering & ML + Systems
 
 ### About me
 
