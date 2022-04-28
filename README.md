@@ -1,10 +1,10 @@
-## Software Engineering & ML + Systems
+## Software & ML Engineering + Systems
 
 ### About me
 
-- Software Engineer, ML Engineer, Data Scientist, Writer, Electrical Engineer, and forever learner
-- With years of experience in engineering, I write computational and ML software applications to make systems smarter
-- Feel free to reach me at timothy@ourse.co
+- Software & ML Engineering, Writing, and forever learning.
+- Generally just love writing computational and ML software applications to make systems smarter.
+- Feel free to reach me at tim.rollings@protonmail.com
 
 **Languages and Tools:**  
 
@@ -20,7 +20,31 @@
 
 <br></br>
 
+<div align="left">
+  <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColorhalf=396E9B" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=E6892E" />
+  <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=E6892E" />
+  <img src="https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas&logoColor=F57C00" />
+  <img src="https://img.shields.io/badge/-Scikit_learn-000000?style=flat&logo=scikitlearn&logoColor=F57C00" />
+  <img src="https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow&logoColor=F57C00" />
+  <img src="https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch&logoColor=F57C00" />
+  <img src="https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon&logoColor=DEDEDF" />
+  <img src="https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=DEDEDF" />
+  <img src="https://img.shields.io/badge/-C++-000000?style=flat&logo=Cplusplus&logoColor=DEDEDF" />
+</div>
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timatom)](https://github.com/timatom/github-readme-stats)-->
+
 ### [Follow my ideas](https://www.timsideas.blog/)
+<a target="_blank" href="https://www.timsideas.blog/post/splintering/"><img src="https://www.timsideas.blog/post/splintering/" alt="Splintering"> 
+
+ <a target="_blank" href="https://www.timsideas.blog/post/ml-consumes-data-symbolic-ai-stores-data/"><img src="https://www.timsideas.blog/post/ml-consumes-data-symbolic-ai-stores-data/" alt="ML consumes data, symbolic AI stores data">
+
+ <a target="_blank" href="https://www.timsideas.blog/post/dont-underestimate-mlops/"><img src="https://www.timsideas.blog/post/dont-underestimate-mlops/" alt="Don't underestimate MLOps">
+
+ <a target="_blank" href="https://www.timsideas.blog/post/dont-forget-mathematical-models/"><img src="https://www.timsideas.blog/post/dont-forget-mathematical-models/" alt="Don't forget mathematical models">
+
+<a target="_blank" href="https://www.timsideas.blog/post/humanness-bound/"><img src="https://www.timsideas.blog/post/humanness-bound/" alt="Humanness-bound">
 
 ### Connect
 
@@ -28,40 +52,12 @@
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 
-<a href="https://medium.com/@timrollings">
+<!--<a href="https://medium.com/@timrollings">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+</a>-->
 
 <a href="mailto:tim.rollings@protonmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/protonmail.svg" />
 </a>
 
 <br></br>
-
-<!--- 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
---->
-
-<!--- 
-<a href="https://github.com/timatom/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=timatom&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Tim's github stats" />
-</a>
---->
-
-<!--- 
-<a href="https://github.com/timatom/github-readme-stats">>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timatom&layout=compact&theme=material-palenight" />
-</a>
---->
-
-<!--- 
-<a href="https://github.com/timatom/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=timatom&repo=github-readme-stats&theme=material-palenight" />
-</a>    
---->
-
-<!--- 
-<a href="https://github.com/timatom/timatom.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=timatom&repo=anuraghazra.github.io&theme=material-palenight" />
-</a>
---->
