@@ -8,18 +8,6 @@
 
 **Languages and Tools:**  
 
-<img align="left" width="30px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-
-<img align="left" width="30px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-
-<img align="left" width="30px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-
-<img align="left" width="30px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-
-<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"/>
-
-<br></br>
-
 <div align="left">
   <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColorhalf=396E9B" />
   <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=E6892E" />
