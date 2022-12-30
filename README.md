@@ -22,9 +22,9 @@
 
 <a target="_blank" href="https://www.timsideas.blog/post/humanness-bound/"><img src="https://www.timsideas.blog/post/humanness-bound/" alt="Humanness-bound">
 
-### Connect
+### Contact
 
-LinkedIn: https://www.linkedin.com/in/timothyrollings/
-Email: tim.rollings@datathat.net
+- LinkedIn: https://www.linkedin.com/in/timothyrollings/
+- Email: tim.rollings@datathat.net
 
 <br></br>
