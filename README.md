@@ -6,7 +6,7 @@
 - Generally just love writing computational and ML software applications to make systems smarter.
 - Feel free to reach me at tim.rollings@protonmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timatom)](https://github.com/anuraghazra/github-readme-stats)
+[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timatom&count_private=true)](https://github.com/timatom/github-readme-stats)
 
 **Languages and Tools:**  
 
