@@ -6,7 +6,7 @@
 - Generally just love writing computational and ML software applications to make systems smarter.
 - Feel free to reach me at tim.rollings@protonmail.com
 
-![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timatom&count_private=true&show_icons=true&theme=react&bg_color=00000000)
+<!--![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timatom&count_private=true&show_icons=true&theme=react&bg_color=00000000)-->
 
 ![Tim's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=timatom&theme=react-dark)
 
@@ -25,8 +25,6 @@
   <img src="https://img.shields.io/badge/-C++-000000?style=flat&logo=Cplusplus&logoColor=DEDEDF" />
 </div>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timatom)](https://github.com/timatom/github-readme-stats)-->
-
 ### [Follow my ideas](https://www.timsideas.blog/)
 <a target="_blank" href="https://www.timsideas.blog/post/splintering/"><img src="https://www.timsideas.blog/post/splintering/" alt="Splintering"> 
 
@@ -43,10 +41,6 @@
 <a href="https://www.linkedin.com/in/timothyrollings/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-
-<!--<a href="https://medium.com/@timrollings">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>-->
 
 <a href="mailto:tim.rollings@protonmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/protonmail.svg" />
