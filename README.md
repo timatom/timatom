@@ -6,7 +6,7 @@
 - Generally just love writing computational and ML software applications to make systems smarter.
 - Feel free to reach me at tim.rollings@protonmail.com
 
-[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timatom&count_private=true&theme=github-dark&show_icons=true)](https://github.com/ashutosh00710/github-readme-stats)
+![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timatom&count_private=true&theme=github-dark&show_icons=true)
 
 [![Tim's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=timatom&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
