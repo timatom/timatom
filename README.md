@@ -8,8 +8,10 @@
 
 <!--![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timatom&count_private=true&show_icons=true&theme=react&bg_color=00000000)-->
 
-![Tim's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=timatom&theme=react-dark)
+<!--![Tim's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=timatom&theme=react-dark)-->
 
+<p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=timatom&theme=react-dark" alt="timatom" />
+  
 **Languages and Tools:**  
 
 <div align="left">
