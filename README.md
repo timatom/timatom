@@ -1,4 +1,4 @@
-## Software & ML Engineering + Systems
+## Timothy Rollings
 
 ### About me
 
