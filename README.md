@@ -8,6 +8,8 @@
 
 [![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timatom&count_private=true&show_icons=true&theme=github-dark)](https://github.com/timatom/github-readme-stats)
 
+[![Tim's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=timatom&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 **Languages and Tools:**  
 
 <div align="left">
