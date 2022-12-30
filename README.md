@@ -1,7 +1,5 @@
 ## Timothy Rollings
 
-### About me
-
 - Software & ML Engineering, Writing, and forever learning.
 - Generally just love writing computational and ML software applications to make systems smarter.
 
