@@ -1,6 +1,6 @@
 ## Timothy Rollings
 
-- Software & ML Engineering, Writing, and forever learning.
+- Software, Data & ML Engineering, Writing, forever learning, forever building.
 - Generally just love writing computational and ML software applications to make systems smarter.
 
 <!--![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timatom&count_private=true&show_icons=true&theme=react&bg_color=00000000)-->
