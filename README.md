@@ -1,6 +1,6 @@
 # Timothy Rollings
 
-I write about systems, complexity, and adaptability and am the founder of Adam Dynamics. In my private newsletter, I occasionally write stand-alone essays related to my core writing.
+I **[write](https://timrollings.com/manifesto/)** about systems, complexity, and adaptability and am the founder of _**[Adam Dynamics](https://adamdynamics.com)**_. In my **[private newsletter](https://timrollings.com/newsletter/)**, I occasionally write stand-alone essays related to my core writing.
 
 ## Stats To Motivate Me
 
