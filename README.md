@@ -8,7 +8,7 @@ I **[write](https://timrollings.com/manifesto/)** about systems, complexity, and
 - **[Defining a Product's UX](https://timrollings.com/articles/defining-a-products-ux/)**
 - **[Splintering](https://timrollings.com/articles/splintering/)**
 - **[Humanness bound](https://timrollings.com/articles/humanness-bound/)**
-- **[Swinging Blindfolded]**
+- **[Swinging Blindfolded](https://timrollings.com/articles/swinging-blindfolded/)**
 
 ## Contact
 **Writing:** I love meeting people from around the world. So if there’s something I’ve written you’d like to talk about, feel free to send me an email at **[tim@timrollings.com](mailto:tim@timrollings.com)**.
