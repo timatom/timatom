@@ -1,10 +1,6 @@
 # Timothy Rollings
 
-## How I Help Others
-
-- Provide ML, Data, MLOps engineering services.
-- Write about my thoughts and ideas on both industry and society.
-- Develop data and ML software applications, some being open source.
+I write about systems, complexity, and adaptability and am the founder of Adam Dynamics. In my private newsletter, I occasionally write stand-alone essays related to my core writing.
 
 ## Stats To Motivate Me
 
