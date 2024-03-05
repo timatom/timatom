@@ -11,9 +11,9 @@ I **[write](https://timrollings.com/manifesto/)** about systems, complexity, and
 - **[Swinging blindfolded](https://timrollings.com/articles/swinging-blindfolded/)**
 
 ## Contact
-**Writing:** I love meeting people from around the world. So if there’s something I’ve written you’d like to talk about, feel free to send me an email at **[tim@timrollings.com](mailto:tim@timrollings.com)**.
+**Writing:** I love meeting people from around the world. So if there’s something I’ve written you’d like to talk about, feel free to send me an email at **[writing@timrollings.com](mailto:writing@timrollings.com)**.
 
-**Business:** If you want to talk business, reach me by email at **[tim@adamdynamics.com](mailto:tim@adamdynamics.com)**.
+**Business:** If you want to talk business, reach me by email at **[info@adamdynamics.com](mailto:info@adamdynamics.com)**.
 
 ## About
 If you'd like to know more about me, visit my **[about page](https://timrollings.com/about/)**.
