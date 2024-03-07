@@ -1,5 +1,5 @@
 # Timothy Rollings
-I **[write](https://timrollings.com/manifesto/)** about systems, complexity, and adaptability and am the founder of _**[Adam Dynamics](https://adamdynamics.com)**_. In my **[private newsletter](https://timrollings.com/newsletter/)**, I occasionally write stand-alone essays related to my core writing.
+I **[explore](https://timrollings.com/manifesto/)** the threads between loss, success, uncertainty, and change and am the founder of _**[Adam Dynamics](https://adamdynamics.com)**_. Occasionally, I also write essays in my **[private newsletter](https://timrollings.com/newsletter/)**.
 
 ## My themes
 - **[Promises](https://timrollings.com/themes/promises/)**
