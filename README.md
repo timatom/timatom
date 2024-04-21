@@ -1,5 +1,5 @@
 # Timothy Rollings
-I **[explore](https://timrollings.com/manifesto/)** the threads between loss, success, uncertainty, and change and am the founder of _**[Adam Dynamics](https://adamdynamics.com)**_. Occasionally, I also write essays in my **[private newsletter](https://timrollings.com/newsletter/)**.
+I build computational software at _**[Adam Dynamics](https://adamdynamics.com)**_, write about building computational software, and explore many threads within complex systems. I also write essays and share updates in my **[newsletter](https://timrollings.com/newsletter/)**.
 
 ## My themes
 - **[Promises](https://timrollings.com/themes/promises/)**
