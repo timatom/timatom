@@ -1,5 +1,5 @@
 # Timothy Rollings
-I build computational software at _**[Adam Dynamics](https://adamdynamics.com)**_, write about building computational software, and explore many threads within complex systems. I also write essays and share updates in my **[newsletter](https://timrollings.com/newsletter/)**.
+I build quantitative software at _**[Adam Dynamics](https://adamdynamics.com)**_, write about building quantitative software, and explore many threads within complex systems. I also write essays and share updates in my **[newsletter](https://timrollings.com/newsletter/)**.
 
 ## My themes
 - **[Embedded Machine Learning]([https://timrollings.com/themes/promises/](https://timrollings.com/themes/embedded-machine-learning/))**
