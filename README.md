@@ -1,10 +1,7 @@
 # Timothy Rollings
-I'm an electrical engineer who also happens to write in my spare time, mostly about complex systems, mathematics, and related philosophical musing. I do electrical designs and analytics at _**[Adam Dynamics](https://adamdynamics.com)**_. Whatever writing I make public can be found at _**[timrollings.com](https://timrollings.com/)**_.
+I'm an electrical engineer who also write in my spare time, mostly about complex systems, mathematics, and related philosophical musing. I do electrical designs and analytics at _**[Adam Dynamics](https://adamdynamics.com)**_. Whatever writing I make public can be found at _**[timrollings.com](https://timrollings.com/)**_.
 
-## My themes
-- **[Embedded Machine Learning]([https://timrollings.com/themes/promises/](https://timrollings.com/themes/embedded-machine-learning/))**
-
-## Featured articles
+## Featured Notes
 - **[Playing with the kappa-metric](https://timrollings.com/notes/playing-with-the-kappa-metric/)**
 - **[Ergodicity (in simple words)](https://timrollings.com/notes/ergodicity-in-simple-words/)**
 - **[Always correct, so always wrong (ACAW)](https://timrollings.com/notes/always-correct-so-always-wrong-acaw/)**
