@@ -9,7 +9,7 @@ I'm an electrical engineer who also write in my spare time. I do electrical desi
 - **[What if linear improvements require exponential resources?](https://timrollings.com/notes/what-if-linear-improvements-require-exponential-resources/)**
 
 ## Contact
-**Writing:** I love meeting people from around the world. So if there’s something I’ve written you’d like to talk about, feel free to send me an email at **[writing@timrollings.com](mailto:writing@timrollings.com)**.
+**Writing:** I love meeting people from around the world. So if there’s something I’ve written you’d like to talk about, feel free to send me an email at **[contact@timrollings.com](mailto:writing@timrollings.com)**.
 
 **Business:** If you want to talk business, reach me by email at **[contact@adamdynamics.com](mailto:info@adamdynamics.com)**.
 
